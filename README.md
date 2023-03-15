@@ -1,5 +1,5 @@
 # Django CRUD with Nested Create & Update Repository
-A basic CRUD (Create, Read, Update & Delete) operations project repository that I compiled while I'm building my skills in Django Framework. I'm open to suggestions and improvements!
+A basic CRUD (Create, Read, Update & Delete) operations project repository with nested create and update entities.
 
 ## DIY (Do it yourself)
 ### Setup the project
